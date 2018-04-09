@@ -1,0 +1,22 @@
+{
+  "name": "randome-encode",
+  "version": "1.0.0",
+  "description": "Gives you an encoded string and the key by which it was encoded",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Upasana242/random-encode.git"
+  },
+  "keywords": [
+    "json"
+  ],
+  "author": "Upasana Sengupta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Upasana242/random-encode/issues"
+  },
+  "homepage": "https://github.com/Upasana242/random-encode#readme"
+}
