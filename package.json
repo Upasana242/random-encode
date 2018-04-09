@@ -1,0 +1,22 @@
+{
+  "name": "uglify-json",
+  "version": "1.0.0",
+  "description": "Takes formatted json and returns one long line of unformatted json without spaces.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Upasana242/uglify-json.git"
+  },
+  "keywords": [
+    "json"
+  ],
+  "author": "Upasana Sengupta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Upasana242/uglify-json/issues"
+  },
+  "homepage": "https://github.com/Upasana242/uglify-json#readme"
+}
